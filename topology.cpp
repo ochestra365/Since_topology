@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <vector>
 #include <queue>
 #define MAX 10
@@ -51,4 +51,4 @@ int main(void) {
 	inDegree[7]++;
 	topologySort();
 	return 0;
-}
+}*/
